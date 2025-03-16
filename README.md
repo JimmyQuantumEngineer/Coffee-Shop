@@ -9,11 +9,12 @@ Welcome to the Coffee Shop App, a fully functional mobile application built usin
 - ❤️ Favorite Items for quick access
 - 🛒 Add to Cart & Checkout seamlessly
 -🎉 Smooth & Optimized UI/UX for the best experience
-- 🛠️ Tech Stack
-## Frontend: React Native
-State Management: Zustand
-Navigation: React Navigation
-UI Components: Styled Components / React Native Paper
+
+##  🛠️ Tech Stack
+- Frontend: React Native
+- State Management: Zustand
+- Navigation: React Navigation
+- UI Components: Styled Components / React Native Paper
 
 
 # Getting Started

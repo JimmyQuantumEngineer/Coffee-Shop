@@ -1,15 +1,16 @@
-☕ Coffee Shop App - React Native & Zustand
+# ☕ Coffee Shop App - React Native & Zustand
+
 Welcome to the Coffee Shop App, a fully functional mobile application built using React Native and Zustand for state management. This app provides a seamless coffee shopping experience, allowing users to explore, search, and order their favorite coffee and coffee beans.
 
-🚀 Features
-📜 Browse Coffee & Coffee Beans with detailed descriptions
-🔍 Search for your favorite coffee
-⭐ View Details (Special Ingredients, Roast Level, Ratings, and Description)
-❤️ Favorite Items for quick access
-🛒 Add to Cart & Checkout seamlessly
-🎉 Smooth & Optimized UI/UX for the best experience
-🛠️ Tech Stack
-Frontend: React Native
+## 🚀 Features
+- 📜 Browse Coffee & Coffee Beans with detailed descriptions
+- 🔍 Search for your favorite coffee
+- ⭐ View Details (Special Ingredients, Roast Level, Ratings, and Description)
+- ❤️ Favorite Items for quick access
+- 🛒 Add to Cart & Checkout seamlessly
+-🎉 Smooth & Optimized UI/UX for the best experience
+- 🛠️ Tech Stack
+## Frontend: React Native
 State Management: Zustand
 Navigation: React Navigation
 UI Components: Styled Components / React Native Paper

@@ -1,4 +1,19 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+☕ Coffee Shop App - React Native & Zustand
+Welcome to the Coffee Shop App, a fully functional mobile application built using React Native and Zustand for state management. This app provides a seamless coffee shopping experience, allowing users to explore, search, and order their favorite coffee and coffee beans.
+
+🚀 Features
+📜 Browse Coffee & Coffee Beans with detailed descriptions
+🔍 Search for your favorite coffee
+⭐ View Details (Special Ingredients, Roast Level, Ratings, and Description)
+❤️ Favorite Items for quick access
+🛒 Add to Cart & Checkout seamlessly
+🎉 Smooth & Optimized UI/UX for the best experience
+🛠️ Tech Stack
+Frontend: React Native
+State Management: Zustand
+Navigation: React Navigation
+UI Components: Styled Components / React Native Paper
+
 
 # Getting Started
 
@@ -9,8 +24,15 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
 To start Metro, run the following command from the _root_ of your React Native project:
+📥 Installation
 
 ```bash
+git clone https://github.com/JimmyQuantumEngineer/Coffee-Shop.git  
+cd coffee-shop
+
+# npm install
+npm install   
+
 # using npm
 npm start
 
@@ -59,14 +81,21 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+## Overview 
+
+<h3 align="center"><img width="100" style="border-radius:2px;" alt="screenshot" src="overview\BeanDetailsScreen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\CartScreen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\CoffeeDetailsScreen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\FavoritesScreen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\HomeScreen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\Order History Screen.png">
+<img width="100" style="border-radius:2px;" alt="screenshot" src="overview\PaymentScreen.png">
+</h3>
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 # Learn More
 
@@ -77,4 +106,9 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# Coffee-Shop
+
+📜 License
+This project is open-source under the MIT License.
+
+🤝 Contributing
+Pull requests are welcome! Feel free to fork the repo and contribute.
